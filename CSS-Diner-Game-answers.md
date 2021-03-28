@@ -11,7 +11,7 @@ Answers to the CSS Diner game at [css-diner-game](https://flukeout.github.io/)
 7. bento .small, plate .small ````or```` orange.small
 8. bento orange.small
 9. plate, bento
-10. .*
+10. \*
 11. plate *
 12. plate + apple
 13. bento ~ pickle
